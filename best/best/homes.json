@@ -1,0 +1,10 @@
+price,address
+"$12,995,000","[<Selector xpath='string(//h1[1])' data='1195 Tower Grove Dr,\xa0Beverly Hills, C...'>]"
+"$1,000,000","[<Selector xpath='string(//h1[1])' data='863 W Vernon Ave,\xa0Los Angeles, CA 90037'>]"
+"$1,100,000","[<Selector xpath='string(//h1[1])' data='6524 W 87th Pl,\xa0Los Angeles, CA 90045'>]"
+"$711,000","[<Selector xpath='string(//h1[1])' data='17536 Saticoy St,\xa0Van Nuys, CA 91406'>]"
+"$969,000","[<Selector xpath='string(//h1[1])' data='15047 Leadwell St,\xa0Van Nuys, CA 91405'>]"
+"$1,299,000","[<Selector xpath='string(//h1[1])' data='1161 Stearns Dr,\xa0Los Angeles, CA 90035'>]"
+"$1,890,000","[<Selector xpath='string(//h1[1])' data='23121 Ostronic Dr,\xa0Woodland Hills, CA...'>]"
+"$1,421,000","[<Selector xpath='string(//h1[1])' data='944 S Serrano Ave #405,\xa0Los Angeles, ...'>]"
+"$1,049,000","[<Selector xpath='string(//h1[1])' data='966 N Serrano Ave,\xa0Los Angeles, CA 90029'>]"
